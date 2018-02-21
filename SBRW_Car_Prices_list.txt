@@ -1,0 +1,498 @@
+Made By Dom.co and Tevelion (Aka T0Y0T4 5UPR4). Special Thanks to: Razor, and RELJARA.
+Don't Repair your car it doesn't go below 10% yet and only 0% affects your car. (will get fixed in the future Probably)
+Tags (Coming Soon,Might Not be added): 
+
+[ST]-Stock [Plain Stock,No Vinyls,Performance Parts,Skills,and Aftermarket parts.)
+[PT]-Pretuned (When you buy a car that is already tuned.)
+[STM]-Stock Modified (Stock,but modified by Vinyls And Aftermarket parts.)
+[EC-SBRW]-Event Cars From SBRW (Official Cars Given To players in a unknown goal(eg.500 players playing Has Reached Once/Event Cars Made By The SBRW Community.)) 
+[OA]-Overall Perfomance Number (or how it handles to a player.Example:[Class=S,OA=758])
+
+
+{E} Class:
+
+-Dodge
+Dodge Challenger R/T, Style: Green $21,000|Limited Edition $27,000
+Dodge Charger R/T, Style: Blue $21,000
+
+-Mazda
+Mazda Mazdaspeed 3, Style: Red $23,000|Exclusive $25,000|T-Mobile $25,000
+
+-Mitsubishi
+Mitsubishi Eclipse GT, Style: Black $22,500
+
+-Nissan
+Nissan 200SX (S14), Style: Red $24,000
+Nissan 240SX (S13), Style: Black $24,000
+Nissan Silvia (S15), Style: White $25,000|Exclusive $32,000
+
+-Pontiac
+Pontiac GTO '65, Style: Red $21,500|Viscust $33,000
+
+-Volkswagen
+Volkswagen R32, Style: Blue $26,000|Limited Edition $32,000
+Volkswagen Scirocco, Style: White $26,000|Exclusive $33,000
+
+{D} Class:
+
+-Audi
+Audi RS 4, Style: Yellow $48,000
+
+-BMW
+BMW 135i Coupe, Style: Blacktop $46,500
+BMW Z4 M Coupe, Style: Blue $46,000|Tony Pizza $58,000|Limited Edition $52,000
+
+-Chevrolet
+Chevrolet Camaro SS, Style: Red $45,000
+Chevrolet Chevelle SS, Style: Red $43,000
+Chevrolet Cobalt SS, Style: Blue $38,000
+
+-Chrysler
+Chrysler Hemi 300C SRT8, Style: White $50,000
+
+-Dodge
+Dodge Challenger R/T, Style: Bruised Drag $57,000|Unite $43,000
+Dodge Charger R/T, Style: Elite $34,000|21 Street $36,000
+Dodge Charger SRT8 Super Bee, Style: Blue $44,500
+
+-Infiniti
+Infiniti G35, Style: Blue $40,000
+
+-Lexus
+Lexus I5 F, Style: Purple $45,000
+Lexus I5300, Style: Blue $37,500
+Lexus I5350, Style: Red $38,500
+
+-Mazda
+Mazda MazdaSpeed 3, Style: Pizza $28,000|Anode $35,000
+Mazda MX-5, Style: Red $35,500
+Mazda RX-7, Style: White $44,000|Style 4 $53,000|Style 3 $53,000|Style 2 $54,000
+Mazda RX-8, Style: Blue $44,000
+Mazda RX-8 '09, Style: Blue $44,500
+
+ -Mistubishi
+Mitsubishi Eclipse, Style: Blue $41,000
+Mitsubishi Eclipse GT, Style: Orbit $34,500
+Mitsubishi Lancer Evolution IX MR-Edition, Style: Yellow $42,500|Glide Package $54,500
+Mistsubishi Lancer Evolution VIII, Style: Grey $52,500
+
+-Nissan
+Nissan 240SX (S13), Style: Coilpackage $36,000
+Nissan 350Z (Z33), Style: White $47,000
+Nissan 370Z Roadster Touring W/Sport PKG, Style: White $50,000
+Nissan Fairlady 240ZG, Style: Green $43,500
+Nissan Silvia (S15), Style: Lustra $37,000
+Nissan Skyline 2000GT-R (C10), Style: Grey $42,500|Limted Edition $48,500
+
+-Pontiac
+Pontiac GTO '65, Style: D-Spec $92,500|Blue Juggernaut $59,500|Red Juggernaut $59,500
+Pontiac Solstice GXP, Style: Silver $45,000
+
+-Porsche
+Porsche Cayman S, Style: Yellow $45,000|Limited Edition $51,000
+
+-Renault
+Renault Sport Clio V6, Style: Grey $44,500
+
+-Scion
+Scion TC, Style: Red $43,500
+
+-Subaru
+Subaru Impreza WRX STi, Style: Red $46,000
+
+-T0Y0T4
+Toyota Corolla GT-5 (AE86), Style: White $36,000|Exclusive $43,000|Test Drive $48,000
+Toyota MR2, Style: Red $47,500
+
+-Volkswagen
+Volkswagen Golf MK1 GTI, Style: Orange $43,000
+Volkswagen R32, Style: Vivoa Package $38,000
+Volkswagen Scirocco, Style: Thumper Package $38,000
+
+{C} Class:
+
+-Audi
+Audi A3 3.2 Quattro, Style: Red $70,000
+Audi Quattro 20 V, Style: White $74,500
+Audi S5, Style: Black $58,500|Buffer Package $70,500
+Audi TT RS Coupé, Style: Grey $60,000|Vesna $87,000
+
+-BMW
+BMW 135i Coupe, Style: Flexor $84,500
+BMW 3.0 CSL Gr. 5, Style: Yellow $74,000
+BMW M3 Sport Evolution, Style: Red $70,500
+BMW Z4 M Coupe, Style: Dagur Package $59,000
+
+-Cadillac
+Cadillac CTS-V, Style: Red $84,000
+
+-Chevrolet
+Chevrolet Camaro SS, Style: C-Spec $102,000
+Chevrolet Chevelle SS, Style: Stockcar $80,000
+Chevrolet Corvette Stingray, Style: Green $76,500
+Chevrolet El Camino SS, Style: Blue $85,500
+
+-Dodge
+Dodge Charger SRT8 Super Bee, Style: Blue Juggernaut $85,500|Relentless Drag $79,500|Red Juggernaut $82,500|Forge $56,500
+
+-Ford
+Ford Capri RS 3100, Style: Blue $78,000
+Ford Crown Victoria Police Interceptor, Style: Blue $69,000
+Ford Escort RS Cosworth, Style: Red $66,500|Limited Edition $72,500
+Ford F-150 SVT Raptor, Style: Blue $85,000
+Ford Focus RS, Style: Blue $68,500
+
+-Jaguar
+Jaguar E-type Lightweight, Style: White $80,000
+
+-Lamborghini
+Lamborghini Countach 5000 Quattrovalvole, Style: Red $77,000
+Lamborghini Diablo SV, Style: Red $87,000
+Lamborghini Miura SV, Style: Red $79,000
+
+
+-Lancia
+Lancia Delta HF Integrale Evoluzione, Style: White $68,000
+
+-Lexus
+Lexus IS F, Style: Synthes Package $57,000
+
+-Lotus
+Lotus Exige Cup 260, Style: White $78,000
+
+-Mazda
+Mazda RX-7, Style: Red $79,500|Sidestep Package $56,000
+Mazda RX-7 RZ, Style: Grey $71,500
+
+-Mitsubishi
+Mitshubishi Eclipse GT, Style: C-Spec $126,000
+Mitshubishi Lancer Evolution X, Style: Red $63,000|Katana $75,000
+
+-Nissan
+Nissan 200SX [S14], Style: Hashiyara $59,000
+Nissan 240SX [S13], Style: Zero-Yon Drag $61,000
+Nissan 350Z [Z33], Style: Underground 2 $84,000|White Package $59,000
+Nissan 370Z [Z34], Style: Red $59,500|Shard $71,500|Limited Edition $65,500
+Nissan Silvia [S15], Style: Touge Cop $72,000
+Nissan Skyline GT-R [R32], Style: White $59,000
+Nissan Skyline GT-R V-Spec [R34], Style: Blue $61,000
+
+-Pontiac
+Pontiac Firebird Formula, Style: Blue $60,000
+
+-Porsche
+Porsche 911 Turbo, Style: Black $68,000|Glacier $75,000|Celtic $80,000
+Porsche Cayman S, Style: Lissom Package $56,000
+
+-Renault Sport
+Renault Sport Megane RS, Style: White $76,000
+
+-Shelby
+Shelby Cobra Daytona Coupe, Style: Red $81,000
+
+-Subaru
+Subaru Impreza WRX STI, Style: Lapse $58,000
+
+-Toyota
+Toyota Corolla GT-S [AE86], Style: C-Spec $108,000
+Toyota Supra, Style: Red $60,500|Viscust $73,500|Hatamoto $73,500
+
+-Volkswagen
+Volkswagen Golf MK1 GTI, Style: C-Spec $100,000
+Volkswagen Scirocco, Style: Zack $63,000|Voub $63,000
+
+{B} Class:
+
+-Audi
+Audi A1 Clubsport Quattro, Style: Worthersee $114,500|Speed $129,500
+Audi R8 4.2 FSI Quattro, Style: Red $105,500|Shift $131,500|Darius $134,500|Hot Pursuit $130,500|Frequency $117,500
+
+-BMW
+Bmw 1 Series M Coupe, Style: White $134,000
+Bmw M3 E92, Style: Heritage $109,000|Grip King $141,000
+Bmw M3 GTR E46, Style: Blue $140,000|Limited Edition $146,000|Template $140,000
+Bmw M6 Convertible, Style: White $148,000
+Bmw M6 Coupe, Style: White $146,500
+
+-Chevrolet
+Chevrolet Camaro ZL1, Style: Red $96,000
+
+-Chrysler
+Chrysler Hemi 300C SRT8, Style: Blue Juggernaut $86,000|Red Juggernaut $86,000
+
+-Dodge
+Dodge Challenger Concept, Style: Silver $103,500
+Dodge Viper SRT10, Style: Red $117,000|Limited Edition $123,000
+
+-Ford
+Ford Crown Victoria Police Interceptor, Style: Cruiser Drag $103,000
+Ford Escort MK1 RS1600 FIA Group 2, Style: White $126,000|Touring $156,000
+Ford F-150 SVT Raptor, Style: Rex Drag $121,000|Blue Juggernaut $116,000|Red Juggernaut $116,000
+Ford Focus RS, Style: Pro FWD Drag $106,500
+Ford GT, Style: Black $150,000
+Ford GT40 MK.1, Style: Yellow $112,500
+Ford Lotus Cortina, Style: White $141,000
+Ford Mustang Boss 302 '69, Style: Yellow $93,500|B-Spec $151,500
+
+-Ford Shelby
+Ford Shelby Terlingua Ford Mustang, Style: Yellow $110,000
+
+-Hummer
+Hummer H1 Alpha, Style: Yellow $115,000
+
+-Jaguar
+Jaguar E-type Lightweight, Style: Icon $111,000
+
+-Jeep
+Jeep Grand Cherokee SRT, Style: Grey $129,000
+
+-Lamborghini
+Lamborghini Countach 5000 Quattrovalvole, Style: Cop Edition $125,000
+Lamborghini Gallardo LP 560-4, Style: White $145,000|Limited Edition $151,000
+Lamborghini Gallardo LP 560-4 Spyder, Style: White $147,500
+
+-Lancia
+Lancia Delta HF Integrale Evoluzione, Style: Rally $99,000
+
+-Lexus
+Lexus IS F, Style: The Beauty $92,000
+Lexus IS300, Style: Treasure Hunter $100,500
+
+-Lotus
+Lotus Elise, Style: White $92,000|Trisor Package $104,000|Limited Edition $98,000
+Lotus Europa S, Style: White $131,000
+
+-Mazda
+Mazda RX-7, Style: Vintage $110,500|Battle Machine $81,000
+Mazda RX-7 RZ, Style: Cherry Blossom $109,500|Drift King $108,500
+Mazda RX-8, Style: Renesis $78,000
+Mazda Rx-8 '09, Style: Rockport Rotary $91,500
+
+-Mitsubishi
+Mitsubishi Eclipse, Style: 4G63 Drag $78,000|Elite $100,000
+Mitsubishi Lancer Evo X, Style: Revolution Drag $100,000|Ryo $96,000|Shatter $101,000
+
+-Nissan
+Nissan 370Z [Z34], Style: B-Spec $141,500
+Nissan GT-R [R35], Style: Black $136,500|Stator Package $148,500|Limited Edition $142,500
+Nissan Skyline 2000GT-R [C10], Style: Cop Edition $84,500
+Nissan Skyline GT-R [R32], Style: B-Spec $160,000
+Nissan Skyline GT-R V-Spec [R34], Style: Raven $99,000|Underground $98,000
+
+-Plymouth
+Plymouth Hemi Cuda, Style: Green $95,000
+Plymouth Road Runner, Style: Blue $94,500
+
+-Porsche
+Porsche 911 Carrera RSR 3.0, Style: White $122,000|Enduro $154,000
+Porsche 911 Turbo, Style: Rose $105,000|Snowflake $105,000
+Porsche 914-6 GT, Style: Orange $148,000
+Porsche Boxter Spyder, Style: Red $137,500
+Porsche Cayman S, Style: Treasure Hunter $94,000|Shift $73,000
+Porsche Panamera Turbo, Style: Blue $143,000
+
+-Scion
+Scion tC, Style: April 1 $80,500|Blue Juggernaut $71,500|Red Juggernaut $71,500
+
+-Shelby
+Shelby Cobra Daytona Coupe, Style: Nero $117,000
+Shelby Cobra 4275/C, Style: White $128,000
+
+-Subaru
+Subaru Impreza WRX STI [Hatchback], Style: Red $98,000
+
+-Toyota
+Toyota MR2, Style: B-Spec $119,500|Gymkhana $84,500
+Toyota Supra, Style: Street Mod Drag $97,500|Shift 2 $87,500|Cop Edition $108,500
+
+-Vauxhall
+Vauxhall Monaro VXR, Style: Silver $108,000
+
+-Volkswagen
+Volkswagen Golf MK1 GTI, Style: Uber Bunny $81,000
+
+{A} Class:
+
+-Alfa Romeo
+Alfa Romeo 8C Competizione, Style: Black $285,000
+
+-Aston Martin
+Aston Martin DBS, Style: Red $265,000
+Aston Martin DBS Volante, Style: Blue $273,000|Treasure Hunter $315,000
+Aston Martin V12 Vantage, Style: Grey $245,000|Cop Edition $286,000
+
+-Audi
+Audi R8 Coupe 5.2 FSI Quattro, Style: Blue $255,000|Mega Blocks $280,000
+
+-Bentley
+Bentley Continental Supersports Convertible, Style: Red $305,000
+Bentley Continental Supersports Coupe, Style: Black $300,000|Spitfire Drag $336,000|Red Juggernaut $335,000|Blue Juggernaut $335,000
+
+-BMW
+Bmw 1 Series M Coupe, Style: Schnell Drag $170,000
+Bmw 3.0 CSL Gr. 5, Style: Leicht $105,000
+Bmw M1 Procar [1979], Style: Orange $310,500|Treasure Hunter $353,500
+Bmw M3 GTR E46, Style: Most Wanted $235,000
+Bmw M3 GTS, Style: White $270,000|Cop Edition $317,000
+Bmw M3 Sport Evolution, Style: Brezeln $107,500
+Bmw M6 Convertible, Style: Monochrome $171,000
+Bmw Z4 GT3, Style: Team Need For Speed $270,000|Easter Bunny $342,000
+
+-Cadillac
+Cadillac CTS-V, Style: Treasure Hunter $130,000
+
+-Chevrolet
+Chevrolet Camaro ZL1, Style: Elite $140,000
+Chevrolet Corvette Z06, Style: Yellow $215,000|Cross $256,000|Advance Package $227,000|Top Gear $215,000|The Beast $256,000
+Chevrolet Corvette Z06 Carbon Limited Edition, Style: Supersonic Blue $268,000|The Beauty $317,000
+Chevrolet Corvette ZR1, Style: White $270,000|A-Spec $372,000
+Chevrolet El Camino SS, Style: Vengeance Drag $117,500|Blue Juggernaut $120,500|Red Juggernaut $120,500
+
+-Dodge
+Dodge Challenger Concept, Style: Cop Edition $148,500
+Dodge Viper SRT10, Style: A-Spec $155,000|Blue Juggernaut $155,000|Red Juggernaut $219,000
+Dodge Viper SRT10 ACR, Style: Elite $355,???
+
+-Ford
+Ford Capri RS3100, Style: Victory Lap $155,000
+Ford GT, Style: 24H $187,000
+Ford Lotus Cortina, Style: World Vintage Series $170,000
+Ford Mustang Boss 302 '12, Style: Orange $289,000|Drag Queen $321,000
+Ford Police Interceptor, Style: Sedan $220,000
+
+-Ford Shelby
+Ford Shelby GT500 Super Snake, Style: Grey $280,000|The Run $316,000|Pro Stock Drag $318,000|Mega Blocks $306,000
+Ford Shelby Terlingua Ford Mustang, Style: Need For Speed $125,000
+
+-Hummer
+Hummer H1 Alpha, Style: Santa $154,000|Blue Juggernaut $151,000|Red Juggernaut $151,000
+
+-Jaguar
+Jaguar XKR, Style: Green $253,000|Treasure Hunter $299,000
+
+-Koenigsegg
+Koenigsegg CCX, Style: Black $302,000
+
+-Lamborghini
+Lamborghini Estoque, Style: White $320,000
+Lamborghini Gallardo LP 5 550-2 Valentino Balboni, Style: Blue $264,000|Cop Edition $315,000
+Lamborghini Gallardo LP 560-4, Style: Mega Blocks $172,000|Tensor $157,000
+Lamborghini Miura Concept, Style: Yellow $310,000
+Lamborghini Murcielago LP 640, Style: Yellow $260,000|Treasure Hunter $309,000|Vesper Drag $296,000|Cop Edition $293,000
+Lamborghini Murcielago LP 650-4 Roadster, Style: White $275,000
+Lamborghini Murcielago LP 670-4 Superveloce, Style: Yellow $315,000
+Lamborghini Reventon, Style: Matte White $333,000
+Lamborghini Sesto Elemento, Style: Gray $336,000|
+
+-Lexus
+Lexus LFA, Style: Red $314,000
+
+-Lotus
+Lotus Evora, Style: Yellow $263,000|Cop Edition $301,000
+Lotus Exige Cup 260, Style: Adrenaline $115,000
+
+-Marussia
+Marussia B2, Style: Yellow $285,000
+-Mclaren
+McLaren MP4-12C, Style: Silver $310,000
+-Mercedes-Benz
+Mercedes-Benz SLR McLaren 722 Edition, Style: Black $252,000|Gleam $280,000|Autobahn Stormer $288,000
+
+-Need For Speed World
+Need For Speed World BFH SUV, Style: National $228,000|Royal $228,000
+Need For Speed World Speed Rabbit, Style: Speed Rabbit $228,000
+
+-Nissan
+Nissan Gt-R SpecV [R35], Style: Red $247,500|Dragzilla Drag $284,500|Snowzilla Drag $284,500
+Nissan Nismo R34GT-R Z-Tune, Style: White $224,000|Red Juggernaut $253,000|Blue Juggernaut $253,000
+
+-Pagani
+Pagani Zonda F, Style: Red $306,000
+Pagani Zonda F Roadster, Style: VIP $340,000
+
+-Porsche
+Porsche 911 Carrera S, Style: Silver $303,000
+Porsche 911 GT2, Style: Yellow $260,000
+Porsche 911 GT2 [997], Style: Yellow $272,000
+Porsche 911 GT3 RS, Style: White $310,500
+Porsche GT3 RS 4.0, Style: Black $325,000
+Porsche 914-6 GT, Style: World Vintage Series $177,000
+Porsche 959, Style: Red $271,000|Year 1 $302,000
+
+-Renault Sport
+Renault Sport Megane RS, Style: A-Spec $179,000|Cop Hatch $124,000
+
+-Shelby
+Shelby Cobra 4275/C, Style: World Vintage Series $159,000
+
+-Subaru
+Subaru Impreza WRX STI [Hatchback], Style: All Terrain $136,000
+
+{S} Class:
+
+-Audi
+Audi R8 LMS Ultra, Style: W-Racing Team $420,000
+
+-Bugatti
+Bugatti Veyron 16.4, Style: Blue $500,000|Silver $500,000
+
+-Caterham
+Caterham R500 Superlight, Style: White $480,000
+
+-Ford 
+Ford Mustang Boss 302 '12, Style: Cop Edition $335,000
+Ford Mustang RTR-X, Style: Team Need For Speed $440,000|Stockcar $469,000
+
+-Koenigsegg
+Koenigsegg Agera, Style: Orange $470,000
+Koenigsegg CCX, Style: Elite $350,000
+Koenigsegg CCXR Edition, Style: Gray $450,000|The Beauty $497,000
+
+-Lamborghini
+Lamborghini Aventador LP700-4, Style: White $430,000|The Beast $477,000
+Lamborghini Reventon, Style: Mega Blocks $357,000|Chinese New Year $370,000
+
+-Lexus
+Lexus LFA, Style: Easter Edition $344,000
+
+-Marussia
+Marussia B2, Style: Treasure Hunter $330,000
+
+-Mclaren
+McLaren F1, Style: Elite $500,000
+McLaren MP4-12C, Style: Braaaiiins $260,000
+
+-Mercedes-Benz
+Mercedes-Benz SLR McLaren Stirling Moss, Style: Silver $460,000
+
+-Pagani
+Pagani Zonda Cinque, Style: Pearl White $465,000|Sleigh Runner $499,000
+
+-Porsche
+Porsche 911 Carrera S, Style: Snowflake $349,000
+Porsche 911 GT3 RS, Style: Seacrest County $345,500
+Porsche 911 GT3 RS 4.0, Style: Mega Blocks $350,000
+Porsche Carrera GT, Style: Red $410,000|Ultra $509,000
+
+
+[E]Class Cars To - [S] Class Cars (All of the cars)(Alphabetical A-Z)
+
+-Alfa Romeo [A]
+Alfa Romeo 8C Competizione, Style: Black $285,000 [A,685OA]|A-Spec $368,000 [A,749OA]
+
+-Aston Martin [A]
+Aston Martin DBS, Style: Red $265,000 [A,665OA]
+Aston Martin DBS Volante, Style: Blue $273,000 [A,699OA]|Treasure Hunter $315,000 [A,715OA]
+Aston Martin V12 Vantage, Style: Grey $245,000 [A,641OA]|Cop Edition $286,000 [A,700OA]
+
+-Audi [D-S]
+Audi A1 Clubsport Quattro, Style: Worthersee $114,500 [B,541OA]|Speed $129,500 [B,541OA]
+Audi A3 3.2 Quattro, Style: Red $70,000 [C,464OA]
+Audi Quattro 20 V, Style: White $74,500 [C,482OA]
+Audi R8 4.2 FSI Quattro, Style: Red $105,500 [Class=B,OA=517]|
+Audi
+Audi
+Audi
+Audi
+Audi
+ 
