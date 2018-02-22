@@ -1,0 +1,28 @@
+Note:OA is Overall Perfomance (how the car handles).
+
+Alphabetical Car Brands
+ 
+-Alfa Romeo [A]
+Alfa Romeo 8C Competizione, Style: Black $285,000 [A,685OA]|A-Spec $368,000 [A,749OA]
+
+-Aston Martin [A]
+Aston Martin DBS, Style: Red $265,000 [A,665OA]
+Aston Martin DBS Volante, Style: Blue $273,000 [A,699OA]|Treasure Hunter $315,000 [A,715OA]
+Aston Martin V12 Vantage, Style: Grey $245,000 [A,641OA]|Cop Edition $286,000 [A,700OA]
+
+-Audi [D-S]
+Audi A1 Clubsport Quattro, Style: Worthersee $114,500 [B,541OA]|Speed $129,500 [B,541OA]
+Audi A3 3.2 Quattro, Style: Red $70,000 [C,464OA]
+Audi Quattro 20 V, Style: White $74,500 [C,482OA]
+Audi R8 4.2 FSI Quattro, Style: Red $105,500 [B,517OA]|Shift $131,500 [B,589OA]|Darius $134,500 [B,589OA]|Hot Pursuit $130,500 [B,591OA]|Frequency $117,500 [B,535OA]
+Audi R8 Coupe 5.2 FSI Quattro, Style: Blue $255,000 [A,653OA]|Mega Blocks $280,000 [A,696OA]
+Audi R8 LMS Ultra, Style: W-Racing Team $420,000 [S,759OA]
+Audi RS 4, Style: Yellow $48,00 [D,389OA]
+Audi S5, Style: Black $58,500 [C,409OA]|Buffer Package $70,500 [C,444OA]
+Audi TT RS Coupe, Style: Grey $60,000 [C,428OA]|Vesna $87,000 [c,496OA]
+
+-Bentley [A]
+Bentley Continental Supersports Convertible, Style: Red $305,000 [A,694OA]
+Bentley Continental Supersports Coupe, Style: Black $300,500 [A,699OA]|Spitfire Drag $336,000 [A,748OA]|Red Juggernaut $335,000 [A,749OA]|Blue Juggernaut $335,000 [A,749OA]
+
+-BMW
